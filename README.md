@@ -55,7 +55,6 @@ Place and connect the following components:
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
   - FWHM width of optical spectra  
-
 ---
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
